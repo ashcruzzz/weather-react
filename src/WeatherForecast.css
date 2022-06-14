@@ -1,0 +1,10 @@
+#weather-forecast-temperature-max {
+  color: #4d6574;
+  font-weight: 600;
+  display: inline;
+}
+#weather-forecast-temperature-min {
+  color: #728896;
+  font-weight: 200;
+  display: inline;
+}
